@@ -23,8 +23,8 @@ efficiently. To support this we have developed several Proof-of-Concept algorith
 algorithms have shown promising results and can be significantly improved upon with more resources. 
 We are tackling 3 Objectives - 
 - Build an algorithm which can classify medicines and other wellness products into categories by their manufacturer provided descriptions and details. We then aim to classify these medicines and
-healthcare products according to the list of 40 general categories of medicines as listed by the FDA.
-- Build a pricing model which would allow small pharmacies to accurately predict market prices of medicines and decide on a competitive selling point.
-- Build an algorithm which can provide substitute recommendations for medicines based on their description and features, to enable better inventory organization.
+healthcare products according to the list of 40 general categories of medicines as listed by the FDA using K means Clustering and Topic Modeling.
+- Build a pricing model which would allow small pharmacies to accurately predict market prices of medicines and decide on a competitive selling point using Random Forest.
+- Build an algorithm which can provide substitute recommendations for medicines based on their description and features, to enable better inventory organization using Cosine Similarity.
 
 ** For detailed analysis and results please see the final report.
